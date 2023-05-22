@@ -22,7 +22,7 @@ function App() {
         naziv:"Iron man 3",
         godina:"2013",
         producent:"Kevin Feige",
-        glavneUloge: "Rober Downey Jr, Gwyneth Paltrow, Don Cheadle",
+        glavneUloge: "Rober Downey Jr, Gwyneth Paltro, Don Cheadle",
         zanr: "Sci-fi, action",
         lista: 0
     },
