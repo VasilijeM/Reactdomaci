@@ -82,7 +82,7 @@ function App() {
       naziv:"Crater",
       godina:"2023",
       producent:"Kyal Patrick Alvarez",
-      glavneUloge: "Isaiah Russell-Bailey, Mckenna Grace, Billy Barratt",
+      glavneUloge: "Isaiah Russell-Bailey, Mckenna Grace, Barrat Billy",
       zanr: "Sci-fi",
       lista: 0
     },
