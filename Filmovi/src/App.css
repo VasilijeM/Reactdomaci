@@ -80,7 +80,7 @@ a{
   height: 100%;
   border-radius: 50% 0% 50% 0%;
   background-color: rgba(255, 249, 215, 0);
-  transition: all 0.5s;
+  transition: all 0.51s;
   z-index: -1;
 
 }

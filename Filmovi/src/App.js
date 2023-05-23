@@ -92,7 +92,7 @@ function App() {
       naziv:"Maneater",
       godina:"2022",
       producent:"Justin Lee",
-      glavneUloge: "Nicky Whelan, Shane West, Trace Adkins",
+      glavneUloge: "Nicky Whelan, Shane West, Trace Adkin",
       zanr: "Horror thriller",
       lista: 0
     },
