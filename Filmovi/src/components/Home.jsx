@@ -12,14 +12,13 @@ function Home() {
       <div className="flex-container">
           <div className="Home-paragraf">
               <p>
-                <br></br> <br></br> Dobrodošli na Filmovi website, vaše odredište za sve filmove! Naša veb stranica je 
-                napravljena za ljubitelje filmova i entuzijaste koji žele da prate svoje omiljene filmove i otkriju 
-                nove. Ovde možete da kreirate svoju personalizovanu listu filmova i dodati filmove koje volite u svoje 
-                favorite.  </p>
-                <p>Naše korisničko sučelje olakšava pretragu 
-                i pronalaženje filmova koje tražite, a naš sistem preporuka vam pomaže da otkrijete skrivene dragulje 
-                koje ste možda propustili. Zato, pridružite nam se danas i počnite da istražujete svet filmova kao 
-                nikada ranije!</p>
+                <br></br>  Dobrodošli na Filmovi, tvoje ultimate odredište za sve što se tiče sedme umetnosti!
+                 Ovaj sajt je namenjen svim filmskim entuzijastima i ljubiteljima filma koji žele da ostanu u toku sa najnovijim 
+                 filmskim ostvarenjima, istraže klasike i pronađu inspiraciju u raznovrsnom svetu filmske umetnosti. 
+                 Bez obzira da li si zaljubljenik u akciju, drame, komedije ili naučnu fantastiku, naša stranica će ti pružiti sve informacije,
+                  recenzije i savete koje ti trebaju da upotpuniš svoje filmsko iskustvo.   </p>
+                <p>Zato, zaviri u svet Filmovi i dopusti da te odvedemo 
+                  na nezaboravno putovanje kroz magiju sedme umetnosti.</p>
                 <br></br>
           </div>
             

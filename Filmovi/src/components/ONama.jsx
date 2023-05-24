@@ -11,17 +11,13 @@ function ONama() {
       <div className="flex-container">
           <div>
               <h2>Cilj sajta:</h2>
-              <p> Ideja kreiranja ove filmske veb stranice bila je da se ljubiteljima filmova pruži 
-                centralizovana platforma za otkrivanje, gledanje i praćenje svojih omiljenih filmova. 
-                Sa beskrajnim nizom novih izdanja i beskrajnim opcijama, pronalaženje pravog filma za gledanje 
-                može biti neodoljivo. Naš veb-sajt ima za cilj da olakša ovaj proces tako što će pripremiti 
-                sveobuhvatan katalog filmova i pružiti korisnicima personalizovane preporuke na osnovu 
-                njihovih interesovanja.<br></br> <br></br>Funkcija liste za praćenje omogućava korisnicima da prate filmove koje 
-                žele da gledaju u budućnosti i pomaže im da nikada više ne propuste film koji morate da pogledate. 
-                Pored toga, kreiranjem korisničkog naloga, korisnici mogu da pristupe svojoj listi posmatranja 
-                i istoriji pregleda sa bilo kog mesta, što olakšava praćenje onoga što su gledali i šta žele sledeće 
-                da gledaju. Verujemo da naša veb lokacija ispunjava potrebu na tržištu za jednostavnijim i 
-                personalizovanijim iskustvom gledanja filmova.
+              <p> Cilj sajta Filmovi je da pruži sveobuhvatnu platformu i iskustvo za ljubitelje filma, gde mogu pronaći 
+                sve informacije, resurse i inspiraciju koja im je potrebna. Naš cilj je da budemo vodeći izvor za filmske vesti, 
+                recenzije, preporuke i najnovije informacije o filmovima, kako bi korisnici mogli da budu u toku sa aktuelnim
+                 filmskim svetom. Želimo da stvorimo zajednicu filmskih entuzijasta gde mogu da se povežu, razmene mišljenja i 
+                 iskustva, kao i da pružimo platformu za promovisanje filmskih ostvarenja i talenta. Naš cilj je da inspirišemo 
+                 i obogatimo filmsko iskustvo svih naših posetilaca.<br></br> <br></br>
+                
                  </p>
           </div>
 

@@ -22,7 +22,7 @@ function App() {
         naziv:"Iron man 3",
         godina:"2013",
         producent:"Kevin Feige",
-        glavneUloge: "Rober Downey Jr, Gwyneth Paltro, Don Cheadle",
+        glavneUloge: "Rober Downey Jr, Gwyneth Paltrow, Don Cheadle",
         zanr: "Sci-fi, action",
         lista: 0
     },
@@ -82,7 +82,7 @@ function App() {
       naziv:"Crater",
       godina:"2023",
       producent:"Kyal Patrick Alvarez",
-      glavneUloge: "Isaiah Russell-Bailey, Mckenna Grace, Barrat Billy",
+      glavneUloge: "Isaiah Russell-Bailey, Mckenna Grace, Billy Barratt",
       zanr: "Sci-fi",
       lista: 0
     },
@@ -92,7 +92,7 @@ function App() {
       naziv:"Maneater",
       godina:"2022",
       producent:"Justin Lee",
-      glavneUloge: "Nicky Whelan, Shane West, Trace Adkin",
+      glavneUloge: "Nicky Whelan, Shane West, Trace Adkins",
       zanr: "Horror thriller",
       lista: 0
     },

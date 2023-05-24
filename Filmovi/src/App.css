@@ -3,7 +3,7 @@
 }
 /* css za navigacioni meni */
 .nav {
-  background: #01030e; opacity: 0.81;
+  background: #01030e; opacity: 0.8;
   color:white;
 	position: sticky;
   margin: auto !important;
@@ -15,7 +15,7 @@
 	top: 0;
 }
 h1 {
-  margin-left: 20px;
+  margin-left: 50px;
   font-size: 27px;
   text-align: center;
   transition: all 0.9s ease-out;
@@ -78,9 +78,9 @@ a{
   transform: translate(-50%, -50%);
   width: 0%;
   height: 100%;
-  border-radius: 50% 0% 50% 0%;
+  border-radius: 40% 40% 40% 40%;
   background-color: rgba(255, 249, 215, 0);
-  transition: all 0.51s;
+  transition: all 0.5s;
   z-index: -1;
 
 }
@@ -169,12 +169,12 @@ h4{
 
     display: flex;
     flex-wrap: wrap;
-    background: rgb(43,41,78);
+    background: #3a3d51;
     justify-content: center;
     margin-left: 10%;
     margin-right: 10%;
     opacity: 85%;
-    border-radius: 50% 0% 50% 0%;
+    border-radius: 40% 40% 40% 40%;
 
   }
 
@@ -211,7 +211,7 @@ h4{
     transform: translate(-50%, -50%);
     width: 0%;
     height: 100%;
-    border-radius: 50% 0% 50% 0%;
+    border-radius: 40% 40% 40% 40%;
     background-color: rgba(255, 249, 215, 0);
     transition: all 0.5s;
     z-index: -1;
@@ -250,7 +250,7 @@ h4{
     transform: translate(-50%, -50%);
     width: 0%;
     height: 100%;
-    border-radius: 50% 0% 50% 0%;
+    border-radius: 40% 40% 40% 40%;
     background-color: rgba(255, 249, 215, 0);
     transition: all 0.5s;
     z-index: -1;
@@ -278,8 +278,8 @@ h4{
   }
 
   .footer-text {
-    text-align: center;
-    color: #fff;
+   text-align: center;
+   color: #fff;
    padding-bottom: 10px;
    padding-top: 10px;
     margin: 8px;
